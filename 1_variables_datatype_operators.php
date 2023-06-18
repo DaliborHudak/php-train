@@ -7,7 +7,7 @@
     //VARIABLES AND DATA TYPES
 
     // string
-    $name = "Bro";
+    $name = "night";
     $food = "pizza";
     $email = "fake123@gmail.com";
 
